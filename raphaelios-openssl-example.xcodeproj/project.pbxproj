@@ -561,7 +561,7 @@
 				INFOPLIST_FILE = "raphaelios-openssl-example/raphaelios-openssl-example-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/claudiu-vladursache/code/opensource/raphaelios-openssl-example/external_libraries/openssl/lib",
+					"~/code/opensource/raphaelios-openssl-example/external_libraries/openssl/lib",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -579,7 +579,7 @@
 				INFOPLIST_FILE = "raphaelios-openssl-example/raphaelios-openssl-example-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/claudiu-vladursache/code/opensource/raphaelios-openssl-example/external_libraries/openssl/lib",
+					"~/code/opensource/raphaelios-openssl-example/external_libraries/openssl/lib",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -645,6 +645,7 @@
 				5450409E17B9407D00AB2F9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5450409F17B9407D00AB2F9D /* Build configuration list for PBXNativeTarget "raphaelios-openssl-exampleTests" */ = {
 			isa = XCConfigurationList;
@@ -653,6 +654,7 @@
 				545040A117B9407D00AB2F9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
